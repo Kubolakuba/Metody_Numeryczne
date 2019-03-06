@@ -43,7 +43,7 @@ print(zad3(num))
 #4
 inp=input("Podaj liczbę ")
 x5=int(inp)
-x = linspace(0, 4*pi, x5)
+x = linspace(0, x5, 500)
 y = sin(x)
 plot(x, y)
 show()
