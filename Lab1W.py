@@ -47,3 +47,6 @@ x = linspace(0, 4*pi, x5)
 y = x**2
 plot(x, y)
 show()
+
+#5
+#Repozytorium: https://github.com/Kubolakuba/Metody_Numeryczne
