@@ -24,26 +24,26 @@ def zad3(num):
 #1
 y=[]
 for x in range(56, 101):
-    y.append(2*x^2 + 2*x + 2)
+    y.append(2*x**2 + 2*x + 2)
 print(y)
 
 #2
 x2=1
-inp=input( "Type number to factor ")
-z=int(inp)
-for i in range(1, z+1):
-    x2=x2*i
-print(x2)
-
+z=int(input( "Type number to factor "))
+if(z>=):
+    for i in range(1, z+1):
+        x2=x2*i
+    print(x2)
+else
+    print("Number is smaller than 0")
 #3
 num = [15, 2,5,8, 10, 11, 123, 665, 112]
 print(zad3(num))
 
 #4
-inp=input("Type chart lenght ")
-x5=int(inp)
+x5=int(input("Type chart lenght "))
 x = linspace(0, x5, 500)
-y = sin(x)
+y = x**2+2
 plot(x, y)
 show()
 #5
