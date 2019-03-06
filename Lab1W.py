@@ -44,7 +44,7 @@ print(zad3(num))
 inp=input("Podaj liczbę ")
 x5=int(inp)
 x = linspace(0, 4*pi, x5)
-y = x**2
+y = sin(x)
 plot(x, y)
 show()
 
