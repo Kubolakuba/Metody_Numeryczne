@@ -47,6 +47,6 @@ x = linspace(0, 4*pi, x5)
 y = sin(x)
 plot(x, y)
 show()
-
+print("Tak")
 #5
 #Repozytorium: https://github.com/Kubolakuba/Metody_Numeryczne
