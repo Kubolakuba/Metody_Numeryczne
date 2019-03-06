@@ -16,9 +16,9 @@ def zad3(num):
     x3=10000000
     ix=0
     for i in range(len(num)):
-        if x3> num[i]:
-            x3=num[i]
-            ix=i
+        if x3 > num[i]:
+            x3 = num[i]
+            ix = i
     return x3, ix
 
 #1
@@ -30,19 +30,20 @@ print(y)
 #2
 x2=1
 z=int(input( "Type number to factor "))
-if(z>=):
+if(z>0):
     for i in range(1, z+1):
-        x2=x2*i
+        x2 = x2*i
     print(x2)
 else
-    print("Number is smaller than 0")
+    print("Provided number is inadequate to factor")
 #3
 num = [15, 2,5,8, 10, 11, 123, 665, 112]
 print(zad3(num))
 
 #4
-x5=int(input("Type chart lenght "))
-x = linspace(0, x5, 500)
+x6 = int(input("Type chart begining"))
+x5 = int(input("Type chart lenght "))
+x = linspace(x6, x6+x5, 500)
 y = x**2+2
 plot(x, y)
 show()
