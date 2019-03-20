@@ -1,20 +1,11 @@
-#alternative way of reading inputs - using library:
-#in terminal/command line write pip install cs50
-#restart your IDE (Pycharm, VSCode, whatever it is)
-#remember to use python3 in your project
-#add "from cs50 import get_int" to the top of your file
-# x = get_int("x: ")
-# y = get_int("y: ")
-
 from cs50 import get_int
 
 x = get_int("x: ")
 y = get_int("y: ")
 
-#print("x:")
-#x = int(input())
-#print("y:")
-#y = int(input())
+#1
+
+
 
 print("-"*10)
 print(x + y)
