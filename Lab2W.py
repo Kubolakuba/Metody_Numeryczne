@@ -6,10 +6,15 @@
 # x = get_int("x: ")
 # y = get_int("y: ")
 
-print("x:")
-x = int(input())
-print("y:")
-y = int(input())
+from cs50 import get_int
+
+x = get_int("x: ")
+y = get_int("y: ")
+
+#print("x:")
+#x = int(input())
+#print("y:")
+#y = int(input())
 
 print("-"*10)
 print(x + y)
