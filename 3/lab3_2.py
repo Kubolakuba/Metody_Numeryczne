@@ -46,10 +46,7 @@ for i in range(num):
     yi.append(y)
 
 for i in range(num):
-    print(yi[i])
-
-for i in range(num):
-    fields.append(countField(ty[i], x[i], y[i]))
+    fields.append(countField(ty[i], xi[i], yi[i]))
 
 if fields[0] > fields[1]:
     print("The first figure ", ty[0], " has larger field")
