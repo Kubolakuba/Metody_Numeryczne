@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e8b4b71-b099-4ab6-8fba-a4713e94e64c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3/lab3_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3/lab3_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/lab4_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/lab2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/lab2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/lab3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/lab3_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +19,7 @@
     <SUITE FILE_PATH="coverage/Metody_Numeryczne$lab2_4.coverage" NAME="lab2_4 Coverage Results" MODIFIED="1553109905284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2" />
     <SUITE FILE_PATH="coverage/Metody_Numeryczne$lab2_2.coverage" NAME="lab2_2 Coverage Results" MODIFIED="1553108356117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2" />
     <SUITE FILE_PATH="coverage/Metody_Numeryczne$lab2_5.coverage" NAME="lab2_5 Coverage Results" MODIFIED="1553109968195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2" />
-    <SUITE FILE_PATH="coverage/Metody_Numeryczne$lab3_2.coverage" NAME="lab3_2 Coverage Results" MODIFIED="1553173794510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
+    <SUITE FILE_PATH="coverage/Metody_Numeryczne$lab3_2.coverage" NAME="lab3_2 Coverage Results" MODIFIED="1553174941618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
     <SUITE FILE_PATH="coverage/Metody_Numeryczne$Lab2W.coverage" NAME="Lab2W Coverage Results" MODIFIED="1553105386309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Metody_Numeryczne$lab4.coverage" NAME="lab4 Coverage Results" MODIFIED="1553104502698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Metody_Numeryczne$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1553104575746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
@@ -35,24 +34,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="26" />
+          <entry key="py" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="26" />
+          <entry key="Python" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="2268" />
-          <entry key="txt" value="6" />
+          <entry key="Python Console" value="8" />
+          <entry key="py" value="2294" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="2268" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="2302" />
         </counts>
       </usages-collector>
     </session>
@@ -60,25 +60,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3/lab3_1.py">
+        <entry file="file://$PROJECT_DIR$/4/lab4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
-              <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+            <state relative-caret-position="350">
+              <caret line="138" selection-start-line="133" selection-end-line="138" />
               <folding>
-                <element signature="e#370#388#0" expanded="true" />
-                <marker date="1553172690457" expanded="true" signature="443:448" ph="..." />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3/lab3_2.py">
+        <entry file="file://$PROJECT_DIR$/4/lab4_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="-296">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
-                <element signature="n#!!doc" />
+                <element signature="e#1#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,6 +127,7 @@
         <option value="$PROJECT_DIR$/2/lab2_1.py" />
         <option value="$PROJECT_DIR$/3/lab3_1.py" />
         <option value="$PROJECT_DIR$/3/lab3_2.py" />
+        <option value="$PROJECT_DIR$/4/lab4_1.py" />
       </list>
     </option>
   </component>
@@ -160,12 +160,22 @@
             <path>
               <item name="Metody_Numeryczne" type="b2602c69:ProjectViewProjectNode" />
               <item name="Metody_Numeryczne" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Metody_Numeryczne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metody_Numeryczne" type="462c0819:PsiDirectoryNode" />
               <item name="2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Metody_Numeryczne" type="b2602c69:ProjectViewProjectNode" />
               <item name="Metody_Numeryczne" type="462c0819:PsiDirectoryNode" />
               <item name="3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Metody_Numeryczne" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metody_Numeryczne" type="462c0819:PsiDirectoryNode" />
+              <item name="4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,10 +193,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kuba\Documents\Programy\Python\Metody_Numeryczne\4" />
+      <recent name="C:\Users\Kuba\Documents\Programy\Python\Metody_Numeryczne" />
       <recent name="C:\Users\Kuba\Documents\Programy\Python\Metody_Numeryczne\1" />
       <recent name="C:\Users\Kuba\Documents\Programy\Python\Metody_Numeryczne\3" />
       <recent name="C:\Users\Kuba\Documents\Programy\Python\Metody_Numeryczne\2" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -398,7 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1553167112518</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="L2">
+      <created>1553173853054</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1553173853054</updated>
+    </task>
+    <task id="LOCAL-00007" summary="L4">
+      <created>1553174362233</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553174362233</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -412,16 +437,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.2548807" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.2548807" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42289156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -429,7 +453,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.3286334" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.3286334" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286334" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -469,7 +493,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zad2" />
     <MESSAGE value="L2" />
-    <option name="LAST_COMMIT_MESSAGE" value="L2" />
+    <MESSAGE value="L4" />
+    <option name="LAST_COMMIT_MESSAGE" value="L4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -487,16 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2448">
-          <caret line="149" column="47" selection-start-line="149" selection-start-column="47" selection-end-line="149" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -613,9 +628,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3/lab3_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
+        <state relative-caret-position="537">
           <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
           <folding>
+            <element signature="n#!!doc" />
             <element signature="e#370#388#0" expanded="true" />
             <marker date="1553172690457" expanded="true" signature="443:448" ph="..." />
           </folding>
@@ -624,10 +640,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3/lab3_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="85">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
           <folding>
             <element signature="n#!!doc" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/lab4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="138" selection-start-line="133" selection-end-line="138" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/lab4_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
           </folding>
         </state>
       </provider>

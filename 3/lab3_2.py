@@ -44,7 +44,7 @@ for i in range(num):
     ty.append(type)
     xi.append(x)
     yi.append(y)
-
+''
 for i in range(num):
     fields.append(countField(ty[i], xi[i], yi[i]))
 
@@ -54,3 +54,6 @@ elif fields[1] > fields[0]:
     print("The second figure ", ty[1], " has larger field")
 else:
     print("The fields are equal")
+
+ty.clear()
+print(ty)
